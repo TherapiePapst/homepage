@@ -22,5 +22,5 @@ deploy:
     branch: master
 env:
   global:
-  - GH_REF: github.com/TherapieTest/homepage.git
+  - GH_REF: github.com/TherapiePapst/homepage.git
 
